@@ -3,10 +3,11 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Times New Roman', 'Times', 'Serif';
+    font-family: 'Hel', 'Times', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #3c3c3c;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -26,7 +27,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #3c3c3c;
 }
 footer {
     border-top: 1px solid #999;
